@@ -1,3 +1,2 @@
-# Project-2
- 
+# PortfolioCSS
 https://sadifa.github.io/Project-2/
