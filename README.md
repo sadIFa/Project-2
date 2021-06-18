@@ -1,2 +1,2 @@
 # PortfolioCSS
-Portfolio with css: https://sadifa.github.io/Project-2/
+Portfolio with css: https://sadifa.github.io/portfolio-part2/
